@@ -1,0 +1,200 @@
+
+.navbar-logo {
+    height: 50px;
+    width: 130px;
+}
+
+#nav-items-color {
+    color: black;
+}
+.Ecommerce-Website-Services-Section-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.Ecommerce-Website-Services-Section-cards-heading {
+    font-size: 22px;
+    color: #1f2933;
+}
+
+.Ecommerce-Website-Services-Section-cards-descrip {
+    color: #7b8794;
+}
+
+.Ecommerce-Website-Services-Section-para {
+    color: #616c7c;
+}
+.modal-card-button {
+    color: black;
+    border: 1px solid black;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.Ecommerce-Website-Products-Section-bg {
+    background-color:white;
+}
+
+.marktag-coloring {
+
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Products-Section-offerslink {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Products-Section-card1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.Ecommerce-Website-Products-Section-card2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.Ecommerce-Website-Products-Section-heading {
+    font-weight: bold;
+    color: #183b56;
+    font-size: 30px;
+}
+
+.Ecommerce-Website-Products-Section-card1-head {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Products-Section-card1-para {
+    font-size: 15px;
+    color: white;
+}
+
+.Ecommerce-Website-Products-Section-card1-button {
+    background-color: white;
+    border-radius: 15px;
+    color: #ff9f00;
+    border-width: 0px;
+    font-size: 15px;
+    height: 35px;
+    padding: 8px;
+}
+
+.Ecommerce-Website-Trending-Blogs-Section-mainHeading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.Ecommerce-Website-Trending-Blogs-cards-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Ecommerce-Website-Trending-Blogs-cards-descrip {
+    color: #959ead;
+}
+
+.Ecommerce-Website-Trending-Blogs-cards-head {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Trending-Blogs-cards-para1 {
+    color: #959ead;
+    font-size: 15px;
+}
+.Ecommerce-Website-Explore-Section-bg {
+    background-color: #f5f7fa;
+}
+
+.Ecommerce-Website-Explore-Section-link {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Ecommerce-Website-Explore-Section-card-image {
+    border-radius: 20px;
+    height: 100px;
+}
+
+.Ecommerce-Website-Explore-Section-card2-image {
+    border-radius: 20px;
+}
+
+.Ecommerce-Website-Explore-Section-card-head {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Explore-Section-card {
+    border-radius: 10px;
+    background-color: white;
+}
+
+.Ecommerce-Website-Explore-Section-headingMain {
+    font-weight: bold;
+    font-size: 30px;
+}
+.Ecommerce-Website-Footer-Section-bg {
+    background-color: #0d2436;
+}
+
+.list-items {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.hori-line {
+    background-color: #5a7184;
+    width: 100%;
+}
+
+.Ecommerce-Website-Footer-Section-para {
+    color: #5a7184;
+}
+
+.Ecommerce-Website-Footer-Section-head {
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Ecommerce-Website-Footer-Section-icons {
+    color: #5a7184;
+    text-align: center;
+    background-color: #152c3e;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.Ecommerce-Website-Offers-Section-head {
+    color: #ad2167;
+    font-family: Bree Serif;
+    font-size: 35px;
+}
+
+.Ecommerce-Website-Offers-Section-span {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Offers-Section-para {
+    color: white;
+    font-size: 30px
+}
+
+.Ecommerce-Website-Offers-Section-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
